@@ -33,20 +33,20 @@ const Detailpage = () => {
                 <p className={styling.text}>Price:</p>
                 <p className={styling.text}>
                   <span>$</span>
-                  {detail.price.toFixed(2)}
+                  {detail.price}
                 </p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>Volume:</p>
-                <p className={styling.text}>{detail.volume.toFixed(2)}</p>
+                <p className={styling.text}>{detail.volume}</p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>Available Supply:</p>
-                <p className={styling.text}>{detail.availableSupply.toFixed(2)}</p>
+                <p className={styling.text}>{detail.availableSupply}</p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>Total Supply:</p>
-                <p className={styling.text}>{detail.totalSupply.toFixed(2)}</p>
+                <p className={styling.text}>{detail.totalSupply}</p>
               </div>
             </div>
             <div className={styling.more}>
@@ -62,28 +62,28 @@ const Detailpage = () => {
                 <p className={styling.text}>MarketCap:</p>
                 <p className={styling.text}>
                   <span>$</span>
-                  {detail.marketCap.toFixed(2)}
+                  {detail.marketCap}
                 </p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>PriceChange1h:</p>
                 <p className={styling.text}>
                   <span>$</span>
-                  {detail.priceChange1h.toFixed(2)}
+                  {detail.priceChange1h}
                 </p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>PriceChange1d:</p>
                 <p className={styling.text}>
                   <span>$</span>
-                  {detail.priceChange1d.toFixed(2)}
+                  {detail.priceChange1d}
                 </p>
               </div>
               <div className={styling.details}>
                 <p className={styling.text}>PriceChange1w:</p>
                 <p className={styling.text}>
                   <span>$</span>
-                  {detail.priceChange1w.toFixed(2)}
+                  {detail.priceChange1w}
                 </p>
               </div>
             </div>
