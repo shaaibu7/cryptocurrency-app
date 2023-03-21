@@ -1,70 +1,135 @@
-# Getting Started with Create React App
+# 📗 Table of Contents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+  - [🚀 Live Demo](#live-demo)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-## Available Scripts
 
-In the project directory, you can run:
+# 📖 [Cryptocurrency app] <a name="about-project"></a>
 
-### `npm start`
+>  This is a cryptocurrency app that fetches crypto`s from an API and the user can search for a specific coin and see the details of the coin.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm test`
+### Tech Stack <a name="tech-stack"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">React</a></li>
+    <li><a href="#">Redux</a></li>
+    <li><a href="#">javascript</a></li>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
 
-### `npm run build`
+### Key Features <a name="key-features"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **[Dynamic data for what our client say section]**
+- **[Desktop and mobile version of projects]**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Live Demo <a name="live-demo"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Live Demo Link](https://shaaibu7.github.io/Front-End-Capstone-Project/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 💻 Getting Started <a name="getting-started"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- You need to setup linter for html, css and javascript correctly
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
 
-### Code Splitting
+In order to run this project you need:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Follow the link to setup the project correctly.
 
-### Analyzing the Bundle Size
+- [Set up project](https://github.com/microverseinc/linters-config/tree/master/html-css)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Setup
 
-### Advanced Configuration
+Clone this repository to your desired folder:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Install
+
+Install this project with: node package manager using npm install
+
+
+### Usage
+
+To run the project, execute the following command:
+
+- npm install
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
 
-### `npm run build` fails to minify
+- Github pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/shaaibu7)
+- Twitter: [@twitterhandle](https://twitter.com/shaaibu)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/shaaibu)
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add contact and services and pages]**
+- [ ] **[Create dynamic data for service page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Loom Video Of Project <a name="Description of project"></a>
+
+- Loom: [Loom-Video](https://www.loom.com/share/56063bb281f84a3a9d1df4d31fa702b3)
+
+ 
+## ⭐️ Show your support <a name="support"></a>
+
+> You can show your support for the project by giving us a star.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+ 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Original Design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance
+
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
