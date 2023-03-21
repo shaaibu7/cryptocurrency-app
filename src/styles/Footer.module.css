@@ -1,0 +1,7 @@
+.footer {
+  background-color: black;
+  padding: 2rem;
+  display: flex;
+  font-weight: 600;
+  font-family: 'Roboto Slab', serif;
+}

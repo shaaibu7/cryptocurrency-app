@@ -3,6 +3,7 @@
   background-color: grey;
   color: white;
   padding: 1.5rem;
+  font-family: 'Roboto Slab', serif;
 }
 
 .head {
@@ -15,6 +16,7 @@
   padding: 2rem;
   font-size: larger;
   font-weight: 600;
+  font-family: 'Roboto Slab', serif;
 }
 
 .icon {
@@ -26,12 +28,14 @@
   display: flex;
   padding-top: 0.5rem;
   margin: 0;
+  font-family: 'Roboto Slab', serif;
 }
 
 .detailContain {
   background-color: grey;
   padding-bottom: 2rem;
   padding-top: 1rem;
+  font-family: 'Roboto Slab', serif;
 }
 
 .text {
@@ -45,4 +49,5 @@
   padding: 2rem;
   font-size: larger;
   font-weight: 600;
+  font-family: 'Roboto Slab', serif;
 }
