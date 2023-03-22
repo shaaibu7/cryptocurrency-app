@@ -183,9 +183,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add functionality to buy cryptocurrencies.
-- Add pages for visual statistics of cryptocurrencies.
-
 
 - [ ] **[Add functionality to buy cryptocurrencies.]**
 - [ ] **[Add pages for visual statistics of cryptocurrencies.]**
