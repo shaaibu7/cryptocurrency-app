@@ -3,7 +3,6 @@ import axios from 'axios';
 
 const url = 'https://api.coinstats.app/public/v1/coins';
 
-// eslint-disable-next-line import/prefer-default-export
 export const fetchCryptos = createAsyncThunk('cryptos/fetchCryptos', async () => {
   const res = await axios.get(url);
   return res.data.coins;

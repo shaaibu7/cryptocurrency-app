@@ -1,7 +1,6 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-// eslint-disable-next-line import/prefer-default-export
 export const fetchDetails = createAsyncThunk('detail/getDetails', async (id) => {
   const res = await axios(`https://api.coinstats.app/public/v1/coins/${id}`);
   return res.data;
