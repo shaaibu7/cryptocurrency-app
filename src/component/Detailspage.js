@@ -1,5 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
+import { BiLoaderCircle } from 'react-icons/bi';
 import NavbarDetails from './NavbarDetail';
 import Footer from './Footer';
 import { selectDetails, selectDetailsStatus } from '../redux/DetailsSlice/DetailsSlice';
@@ -10,7 +11,7 @@ const Detailpage = () => {
   const detailStatus = useSelector(selectDetailsStatus);
 
   if (detailStatus === 'loading') {
-    return <h1>Loading....</h1>;
+    return <BiLoaderCircle size={50} className={styling.loader} />;
   }
 
   return (

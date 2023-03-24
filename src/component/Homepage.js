@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { SiBuzzfeed } from 'react-icons/si';
+import { BiLoaderCircle } from 'react-icons/bi';
 import { fetchCryptos, selectCryptos, selectCryptoStatus } from '../redux/HomeSlice/CryptoSlice';
 import { fetchDetails } from '../redux/DetailsSlice/DetailsSlice';
 import Navbar from './Navbar';
@@ -28,7 +29,7 @@ const Homepage = () => {
   };
 
   if (cryptoStatus === 'loading') {
-    return <h1>Loading....</h1>;
+    return <BiLoaderCircle size={50} className={styling.loader} />;
   }
   return (
     <>

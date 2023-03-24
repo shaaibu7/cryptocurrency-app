@@ -51,3 +51,10 @@
   font-weight: 600;
   font-family: 'Roboto Slab', serif;
 }
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50%;
+}
