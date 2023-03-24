@@ -1,0 +1,9 @@
+.head {
+  background-color: grey;
+  color: white;
+  padding: 2rem;
+}
+
+.headText {
+  font-weight: 600;
+}

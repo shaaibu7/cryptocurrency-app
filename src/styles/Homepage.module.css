@@ -1,0 +1,56 @@
+.inputData {
+  background-color: black;
+  padding: 0.7rem;
+  color: white;
+  width: 100%;
+  font-family: 'Roboto Slab', serif;
+}
+
+.image {
+  width: 3rem;
+  height: 3rem;
+}
+
+.cryptoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Roboto Slab', serif;
+}
+
+.crypto {
+  width: 50%;
+  text-align: center;
+  padding: 3rem;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: 'Roboto Slab', serif;
+}
+
+.crypto:nth-child(4n + 2),
+.crypto:nth-child(4n + 3) {
+  background-color: grey;
+}
+
+.item {
+  padding-top: 1rem;
+  font-family: 'Roboto Slab', serif;
+}
+
+.feed {
+  width: 20px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50%;
+}
