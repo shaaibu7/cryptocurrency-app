@@ -85,7 +85,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://peppy-frangollo-8cc73c.netlify.app/)
+- [Live Demo Link](https://641d7eb37e27cf0008c5a34c--cryptocurrency-livestat.netlify.app/)
 
 
 ## 📹 Video Description
