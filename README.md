@@ -30,7 +30,7 @@
 # 📖 [Cryptocurrency app] <a name="about-project"></a>
 
 
-**[Cryptocurrency app]**  This is a cryptocurrency app that fetches crypto`s from an API and the user can search for a specific coin and see the details of the coin.
+Stay ahead in the fast-paced world of cryptocurrencies with this web application. Utilizing a live API, it fetches and displays real-time data, giving users access to up-to-date information about cryptocurrency prices and market trends. Monitor the dynamic market conditions and make informed decisions with ease. This user-friendly web app is your gateway to stay informed and track the live crypto market at your fingertips.
 
 ## 🛠 Built With <a name="built-with"></a>
 
